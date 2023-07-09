@@ -1,0 +1,148 @@
+{
+	"payload": [
+		{
+			"id": 1,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Angora%20Rabbit.jpg?alt=media&token=e6b856e8-eecb-4258-a6bb-b27c9f632a3b",
+			"name": "Boots",
+			"gender": "Male",
+			"category": "Rabbit",
+			"breed": "Angora Rabbit",
+			"price": 5000,
+			"currency": "INR",
+			"age_in_years": 4,
+			"owner": "Ajit Srivastava"
+		},
+		{
+			"id": 2,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Canary.jpg?alt=media&token=e901e690-15a4-4034-8327-ba4e32802050",
+			"name": "Zazu",
+			"gender": "Male",
+			"category": "Bird",
+			"breed": "Canary",
+			"price": 5500,
+			"currency": "INR",
+			"age_in_years": 5,
+			"owner": "Bharat Verma"
+		},
+		{
+			"id": 3,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Cockatoos.jpg?alt=media&token=96f7865e-1a88-4857-aa6c-2465c47e31b4",
+			"name": "Scruffy",
+			"gender": "Female",
+			"category": "Bird",
+			"breed": "Cockatoos",
+			"price": 12000,
+			"currency": "INR",
+			"age_in_years": 17,
+			"owner": "T. Subramanyam"
+		},
+		{
+			"id": 4,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Golden%20Retreiver.jpg?alt=media&token=76d57d78-cc10-4548-a181-746cf1513dac",
+			"name": "Murphy",
+			"gender": "Male",
+			"category": "Dog",
+			"breed": "Golden Retriever",
+			"price": 25000,
+			"currency": "INR",
+			"age_in_years": 7,
+			"owner": "Mike Sebastian"
+		},
+		{
+			"id": 5,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Husky.jpg?alt=media&token=f51c409e-a98b-4451-ad4e-f383bf7247a3",
+			"name": "Ace",
+			"gender": "Male",
+			"category": "Dog",
+			"breed": "Husky",
+			"price": 46000,
+			"currency": "INR",
+			"age_in_years": 6,
+			"owner": "Ayush Shetty"
+		},
+		{
+			"id": 6,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Hyacinth%20Macaw.jpg?alt=media&token=ffb2c9c7-6c92-4b7a-a598-5334daa12639",
+			"name": "Cisco",
+			"gender": "Female",
+			"category": "Bird",
+			"breed": "Hyacinth Macaw",
+			"price": 800000,
+			"currency": "INR",
+			"age_in_years": 25,
+			"owner": "Suman Swahney"
+		},
+		{
+			"id": 7,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Labrador.jpg?alt=media&token=b7557302-7d6a-4703-8438-c4a7288114c2",
+			"name": "Yukon",
+			"gender": "Male",
+			"category": "Dog",
+			"breed": "Labrador",
+			"price": 32000,
+			"currency": "INR",
+			"age_in_years": 5,
+			"owner": "Diya Narayan"
+		},
+		{
+			"id": 8,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Maine%20Coon.jpg?alt=media&token=08bfec76-1f7c-4d48-a8be-5da15bdb7965",
+			"name": "Luna",
+			"gender": "Female",
+			"category": "Cat",
+			"breed": "Maine Coon",
+			"price": 41000,
+			"currency": "INR",
+			"age_in_years": 6,
+			"owner": "Abhiram Panchal"
+		},
+		{
+			"id": 9,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Netherland%20Dwarf%20Rabbit.jpg?alt=media&token=ff46d3a8-7028-457a-92a8-16908398dfb3",
+			"name": "Bean",
+			"gender": "Female",
+			"category": "Rabbit",
+			"breed": "Netherland Dwarf",
+			"price": 2300,
+			"currency": "INR",
+			"age_in_years": 2,
+			"owner": "Lina Ranjan"
+		},
+		{
+			"id": 10,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Persian%20Cat.jpg?alt=media&token=4fa2873c-d460-4aae-be65-9df31be9ea6f",
+			"name": "Leo",
+			"gender": "Male",
+			"category": "Cat",
+			"breed": "Persian Cat",
+			"price": 21000,
+			"currency": "INR",
+			"age_in_years": 4,
+			"owner": "Samarth Arya"
+		},
+		{
+			"id": 11,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Rex%20Rabbit.jpg?alt=media&token=0172674d-5a92-4899-bfee-ff07a796bce0",
+			"name": "Coco",
+			"gender": "Male",
+			"category": "Rabbit",
+			"breed": "Rex Rabbit",
+			"price": 3700,
+			"currency": "INR",
+			"age_in_years": 3,
+			"owner": "Mehul Mangal"
+		},
+		{
+			"id": 12,
+			"image": "https://firebasestorage.googleapis.com/v0/b/roomies-4fd5c.appspot.com/o/Siamese%20Cat.jpg?alt=media&token=5d3b01b8-83d9-45eb-b39f-75f4b9b40d44",
+			"name": "Felicity",
+			"gender": "Female",
+			"category": "Cat",
+			"breed": "Siamese Cat",
+			"price": 43000,
+			"currency": "INR",
+			"age_in_years": 9,
+			"owner": "Devika Mishra"
+		}
+	]
+}
